@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "agent-inbox": {
+      "url": "https://mailganer.com/tools/agent-inbox/v1/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AGENT_INBOX_TOKEN}"
+      }
+    }
+  }
+}
